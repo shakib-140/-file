@@ -17,7 +17,6 @@ int main()
             ch=fgetc(file4);
             printf("%c",ch);
         }
-
         printf("file is opened successfully");
     }
 
